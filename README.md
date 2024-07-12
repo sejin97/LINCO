@@ -20,7 +20,7 @@ openAPI를 활용한 데이터 불러오기 및 culture & art 페이지 구현, 
 게시판 CRUD 구현, 게시판 페이지네이션 구현, AJAX를 활용한 비동기 방식의 댓글 구현, @RequestParam을 이용한 클럽 카테고리 및 게시판 카테고리 분류
 
 ### 김세진
-EC2 RDS를 활용한 서버 배포, 클라이언트 측에서의 URL 조작과 페이지 리로딩을 활용한 소셜라이징 리스트 페이지 구현, AJAX를 활용한 비동기삭 방식의 CLUB-CREATE페이지 중복확인 구현
+EC2 RDS를 활용한 서버 배포, 클라이언트 측에서의 URL 조작과 페이지 리로딩을 활용한 소셜라이징 리스트 페이지 구현, AJAX를 활용한 비동기식 방식의 CLUB-CREATE페이지 중복확인 구현
 
 ### 강민정
 Spring Security OAuth2 Client 라이브러리를 사용하여 Google, Naver, Kakao 등의 소셜 로그인 기능을 구현, OAuth2UserService를 커스터마이징하여 사용자 정보를 처리하고 저장하는 로직 구현, Spring Security의 SecurityContextLogoutHandler를 사용하여 사용자의 세션을 무효화하고, 쿠키를 삭제하여 로그아웃 기능 구현, Spring Security의 폼 기반 로그인을 사용하여 일반 로그인 구현
